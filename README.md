@@ -1,12 +1,8 @@
-• PPT slides
-• Code
-• The report of the term project
-    • Division of the work of each team member
-    • Paper title / Motivation / Problem definition /
-    • Algorithm / Experimental results/Discussions
-    • Reference
+# 2023 DIP Final
 
-## How to run
+## Single Image Haze Removal Using Dark Channel Prior
+
+### How to run
 
 ```bash
 # install requirements
